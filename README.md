@@ -1,5 +1,10 @@
 # bilka
+
+![білка](./squirrel.png)
+
 scraping textual data for corpus building
+
+
 
 ## Build & run locally with `venv`
 

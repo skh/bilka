@@ -1,2 +1,4 @@
 .vscode/
+bilka.egg-info/
+build/
 venv/
