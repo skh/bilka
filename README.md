@@ -14,3 +14,11 @@ First, have `python3` installed and working locally. A very easy way to achieve 
 * `$ source venv/bin/activate` will make `pip3` perform all installations in the virtual environment in `venv`
 * `$ python3 setup.py install` installs this script and all its dependencies (once there are any)
 * Then run with `$ vtc --help` to verify it works.
+
+
+
+
+## Credits
+Initial version by ...
+
+Squirrel clipart PNG Designed By Rodigart47 from: [PNGTree](https://pngtree.com/freepng/cute-squirrel-holding-acorn-clipart-illustration_19856561.html?sol=downref&id=bef)
